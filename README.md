@@ -5,8 +5,11 @@ This repository contains the source code for the paper [First Order Motion Model
 ## Contact
 
 Name: Hoan Tran
+
 Cell: +84 978 39 41 43
+
 Email: daibangcam@gmail.com
+
 Website: http://hano.cf/
 
 ## Demo
