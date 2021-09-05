@@ -2,7 +2,14 @@
 
 This repository contains the source code for the paper [First Order Motion Model for Image Animation](https://papers.nips.cc/paper/8935-first-order-motion-model-for-image-animation) by Aliaksandr Siarohin, [Stéphane Lathuilière](http://stelat.eu), [Sergey Tulyakov](http://stulyakov.com), [Elisa Ricci](http://elisaricci.eu/) and [Nicu Sebe](http://disi.unitn.it/~sebe/). 
 
-## Example animations
+## Contact
+
+Name: Hoan Tran
+Cell: +84 978 39 41 43
+Email: daibangcam@gmail.com
+Website: http://hano.cf/
+
+## Demo
 
 Watch it on YouTube [Image Animation](https://youtu.be/Eny_4dmNy38)
 
